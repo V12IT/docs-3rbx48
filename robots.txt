@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-tuo9kr.originmovement.co.nz/sitemap.xml
